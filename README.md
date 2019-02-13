@@ -1,2 +1,1 @@
-# Hello-World
-prueba
+este es el texto editado
